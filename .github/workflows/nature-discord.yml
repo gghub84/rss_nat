@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: nature-updates
-  cancel-in-progress: false
+  group: nature-updates-v2
+  cancel-in-progress: true
 
 jobs:
   check:
