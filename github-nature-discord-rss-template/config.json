@@ -3,7 +3,7 @@
   "feeds": [
     {
       "name": "Nature PubMed Search",
-      "url": "PASTE_YOUR_PUBMED_RSS_URL_HERE_AND_SET_LIMIT_50_OR_100",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1XkGOs2RTTP-VMBhQ1m6BhV3xyrlQvg5StJ21-fzVDnbqfYwS5/?limit=50&utm_campaign=pubmed-2&fc=20260625123957",
       "include_keywords": [],
       "exclude_keywords": ["correction", "erratum", "retraction"]
     }
