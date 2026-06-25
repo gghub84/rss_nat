@@ -1,5 +1,5 @@
 {
-  "max_posts_per_run": 25,
+  "max_posts_per_run": 50,
   "feeds": [
     {
       "name": "Nature PubMed Search",
