@@ -1,0 +1,11 @@
+{
+  "max_posts_per_run": 25,
+  "feeds": [
+    {
+      "name": "Nature PubMed Search",
+      "url": "PASTE_YOUR_PUBMED_RSS_URL_HERE_AND_SET_LIMIT_50_OR_100",
+      "include_keywords": [],
+      "exclude_keywords": ["correction", "erratum", "retraction"]
+    }
+  ]
+}
