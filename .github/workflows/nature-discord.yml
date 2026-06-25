@@ -28,7 +28,7 @@ jobs:
       - name: Check feeds and post matches
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          POST_ON_FIRST_RUN: "false"
+          POST_ON_FIRST_RUN: "true"
         run: python scripts/nature_to_discord.py
 
       - name: Commit seen item state
