@@ -6,6 +6,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/121_bH1u1bh9zKAgbwgm_RWrkuCDXxe7mZIQaJEU15YvjKKEB0/?limit=50&utm_campaign=pubmed-2&fc=20260625133304",
       "include_keywords": [],
       "exclude_keywords": ["correction", "erratum", "retraction"]
+    },
+    {
+      "name": "All Things Vesicles",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HAC9OLsDE6OY1VeviD0O7p626elUaAxOWYjUfkpn4H6mXxQlY/?limit=15&utm_campaign=pubmed-2&fc=20260626141052",
+      "webhook_env": "DISCORD_WEBHOOK_VESICLES",
+      "include_keywords": [],
+      "exclude_keywords": ["correction", "erratum", "retraction"]
     }
   ]
 }
+
